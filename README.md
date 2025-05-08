@@ -1,4 +1,4 @@
-** What are some differences between interfaces and types in TypeScript?
+**What are some differences between interfaces and types in TypeScript?
 Interface is mainly used to describe the shape of an object. Interface can be extended using extends. 
 if the same interface written twice, TypeScript merges them. Interface used when working with the objects, classes or structure definitions. 
 
